@@ -71,7 +71,7 @@ export default function Home() {
       >
         <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-6">
           <a href="#" className="text-xl font-bold tracking-tight">
-            Jhon Michael<span className="text-violet-400">.</span>
+            Jhon Michael(Fisher)<span className="text-violet-400">.</span>
           </a>
 
           <div className="hidden items-center gap-8 md:flex">
