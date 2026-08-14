@@ -140,7 +140,7 @@ export default function Home() {
             </div>
 
             <h1 className="text-5xl font-bold leading-[1.05] tracking-tight sm:text-7xl lg:text-8xl">
-              Building digital
+              Let us build much more effective programs with you - SUSI, haha. Building digital
               <span className="block bg-gradient-to-r from-violet-400 via-fuchsia-400 to-cyan-400 bg-clip-text text-transparent">
                 experiences.
               </span>
